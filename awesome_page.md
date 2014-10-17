@@ -6,6 +6,8 @@ __I'm bold__
 
 _I'm Italic_
 
+-I'm also Italic_
+
 <code>Hello World</code>
 
 ```ruby
